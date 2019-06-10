@@ -1,2 +1,2 @@
 # Arrow
-Repository for game Arrow
+Repository for Arrow, built with Unity.
